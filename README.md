@@ -31,7 +31,7 @@ Python3.9
 
         #### Input Quit, the output quits the program.
 
-###Day 3: Challenge Task Two (Day 3)
+### Day 3: Challenge Task Two (Day 3)
         ####calculates the number of calories that result from the fat, using the following formula: 
                * Calories from fats fat grams * 9 
                * Calories from carbs carb grams * 4 
