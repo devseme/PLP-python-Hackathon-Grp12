@@ -17,6 +17,8 @@ Python3.9
 ### Bus Fare Challenge – Task One (Day 1)
         #### Calculates the fare of the day
 
+### sales Tax Challenge – Task Two (Day 1)
+        #### Calculates the amount spent for painting a room
 ### Personality test program - Task One (Day 2)
         #### Calculates the number of points awarded for the books.
 
