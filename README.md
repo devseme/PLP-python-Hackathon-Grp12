@@ -12,7 +12,7 @@ Sharon Odhiambo
 
 ## DESCRIPTION
 
-These is the first hackathon in POWERLEARN Project(PLP).It consists of python challenges that we really gave a good try.
+This is the first hackathon in POWERLEARN Project(PLP).It consists of python challenges that we really gave a good try and finished within stipulated time.
 
 
 
