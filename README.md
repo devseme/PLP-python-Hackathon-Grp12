@@ -12,8 +12,8 @@ Sharon Odhiambo
 
 ## DESCRIPTION
 
-This is an application that promps user to input password 'qwerty' to access the application.
-The user can Open the door,Close the door and Quit
+These is the first hackathon in POWERLEARN Project(PLP).It consists of python challenges that we really gave a good try.
+
 
 
 
@@ -21,15 +21,7 @@ The user can Open the door,Close the door and Quit
 
 Python3.9
 
-## BEHAVIOR AND DEVELOPMENT DRIVEN (BDD)
 
-        ### Using short code provided.
-
-        ### Input Open, the output Door is Open.
-
-        ### Input Close, the output Door is Closed.
-
-        ### Input Quit, the output quits the program.
 
         
 ## SUPPORT AND CONTACT DETAILS
